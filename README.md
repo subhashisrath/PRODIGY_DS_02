@@ -1,1 +1,1 @@
-# PRODIGY_DS_02
+Data cleaning and EDA analysis on titanic dataset.
